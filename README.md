@@ -2,4 +2,4 @@ This is where a collection of utilities that acompany my learn you a haskell vid
 
 You can launch the public continaer with the command below:
 
-	$ docker run -it --rm haskell-test-2
+	$ docker run -it --rm devlinsf/learn-haskell
