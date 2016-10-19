@@ -1,5 +1,3 @@
-
---split
 doubleMe x = x + x
 
 --split
